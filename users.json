@@ -1,0 +1,20 @@
+{
+  "user1": {
+    "id": 101,
+    "name": "Rakesh",
+    "password": "Admin@1",
+    "profession": "Professor"
+  },
+  "user2": {
+    "id": 102,
+    "name": "Ram Naresh",
+    "password": "MyPassword",
+    "profession": "student"
+  },
+  "user3": {
+    "id": 3,
+    "name": "Nithin",
+    "password": "25895",
+    "profession": "Assistant Professor"
+  }
+}
